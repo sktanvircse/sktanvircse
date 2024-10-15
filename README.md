@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stanvircse&" alt="sktanvircse" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sktanvircse&" alt="sktanvircse" /></p>
