@@ -5,17 +5,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sktanvircse&label=Profile%20views&color=0e75b6&style=flat" alt="sktanvircse" /> </p>
 
 
-**sktanvir77/sktanvir77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a **Frontend Developer @ Digital Intelligence System Ltd**
+- 
 - 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
+- 
 - 🤔 I’m looking for help with ...
+- 
 - 💬 Ask me about ** HTML ,CSS, Bootstrap, Tailwind CSS, SASS, JavaScript, jQuery, Angular JS, React JS, Node JS, TypeScript, Next JS, React Hook Query, Formik Validation, RC-table, Tanstack-table, AG Grid, Mongo DB **
+- 
 - 📫 How to reach me: **sktanvirbd25@gmail.com**
+- 
 - 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
 
 
