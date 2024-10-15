@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Md. Rasel Aktar</h1>
+<h3 align="center">A Passionate Frontend Web Developer from Bangladesh</h3>
+
 <!--
 **sktanvir77/sktanvir77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
